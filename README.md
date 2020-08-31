@@ -24,6 +24,8 @@
 
   <img src="/assets/photo/code.JPG">
 
+  <img src="/assets/photo/working.gif">
+
   ## License
 
   This aplication is made with the [MIT License](https://opensource.org/licenses/MIT)
