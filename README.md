@@ -3,7 +3,7 @@
 
   This application creates a team HTML that displays inputed employees so that managers can see thier teams they created. The teams are created after asking the user questions; those answers are then dynamically rendered into a HTML output file which displays the teams in thier own cards.
 
-  <img src="/assets/photos/team.JPG">
+  <img src="/assets/photo/team.JPG">
 
   ## Table of Contents
 
@@ -22,7 +22,7 @@
 
   This project uses HTML and Bootstrap to create the HTML files. The back-end is ran with JavaScript, the inquirer module, and the jest testing module. The user runs the apps.js file in their node terminal and then follows the prompts and questions. Once all questions are answered and all employees are entered, the application will render the answeres into the HTML file.
 
-  <img src="/assets/photos/code.JPG">
+  <img src="/assets/photo/code.JPG">
 
   ## License
 
